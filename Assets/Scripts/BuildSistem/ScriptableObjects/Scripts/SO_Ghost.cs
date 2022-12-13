@@ -6,6 +6,6 @@ public class SO_Ghost : ScriptableObject
 {   [Header("Game Objects")]
     [Space(8)]
     public GameObject ghost;
-    public GameObject buildReadyObject;
+   
 }
    

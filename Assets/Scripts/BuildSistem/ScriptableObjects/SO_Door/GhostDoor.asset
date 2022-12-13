@@ -12,5 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27b5c3313643de24796b321e0f0b9484, type: 3}
   m_Name: GhostDoor
   m_EditorClassIdentifier: 
-  ghost: {fileID: 2857630306209323465, guid: 06f48b01a17514243907046d30c4b212, type: 3}
-  buildReadyObject: {fileID: 2857630306209323465, guid: 57dbf2c3e7412004fae3355fbd3abbed, type: 3}
+  ghost: {fileID: 2857630306209323465, guid: 57dbf2c3e7412004fae3355fbd3abbed, type: 3}

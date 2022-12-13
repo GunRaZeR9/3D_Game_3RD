@@ -12,5 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27b5c3313643de24796b321e0f0b9484, type: 3}
   m_Name: GhostFlorrTile
   m_EditorClassIdentifier: 
-  ghost: {fileID: 3593258450504851301, guid: d89c9c8f2eaaeff49bcb57b01e13f63b, type: 3}
-  buildReadyObject: {fileID: 3593258450504851301, guid: 1487d2a6a3041924f8772ca1371be3b1, type: 3}
+  ghost: {fileID: 3593258450504851301, guid: 1487d2a6a3041924f8772ca1371be3b1, type: 3}

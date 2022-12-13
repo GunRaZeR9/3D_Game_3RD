@@ -12,5 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27b5c3313643de24796b321e0f0b9484, type: 3}
   m_Name: GhostWall
   m_EditorClassIdentifier: 
-  ghost: {fileID: 8195479543938265731, guid: ae12d26ad9b5c82469cda3ca8b2d795c, type: 3}
-  buildReadyObject: {fileID: 8195479543938265731, guid: 948ce3221a17b6c4e8febaffe37d2e9d, type: 3}
+  ghost: {fileID: 8195479543938265731, guid: 948ce3221a17b6c4e8febaffe37d2e9d, type: 3}
