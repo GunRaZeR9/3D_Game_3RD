@@ -12,6 +12,7 @@ public class BuildingScript : MonoBehaviour
     private BuildingManager buildingManager;
     public GameObject followVis;
     public GameObject objectHolder;
+    public BuildingObject objectToPlace;
     //public Transform objectHolder;
     
     public bool isBuilding;
@@ -99,6 +100,14 @@ public class BuildingScript : MonoBehaviour
                 }else{
                     Debug.Log("The tile is occupied");
                 }
+            }
+        }
+    }
+    public void SelectObject(int id){
+        for (int i = 0; i < ObjectsDatabase.Instance.objectDatabase.Count; i++)
+        {
+            if(ObjectsDatabase.Instance.objectDatabase[i].objectId == id){
+                objectToPlace = ObjectsDatabase.Instance.objectDatabase[i].refOfObject;
             }
         }
     }

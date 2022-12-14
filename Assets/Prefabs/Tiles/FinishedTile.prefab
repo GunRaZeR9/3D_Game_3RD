@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2186314927804716367}
   - component: {fileID: 7758270670679640989}
   - component: {fileID: 4687243417702321934}
+  - component: {fileID: -8594716256037586710}
   m_Layer: 3
   m_Name: FinishedTile
   m_TagString: Untagged
@@ -97,3 +98,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-8594716256037586710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3593258450504851301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 147b1f39679e47942b256f10529700c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: {fileID: 0}
